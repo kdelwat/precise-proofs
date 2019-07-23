@@ -8,13 +8,13 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/centrifuge/precise-proofs/proofs/proto"
 	"github.com/golang/protobuf/descriptor"
 	"github.com/golang/protobuf/proto"
 	godescriptor "github.com/golang/protobuf/protoc-gen-go/descriptor"
 	"github.com/golang/protobuf/protoc-gen-go/generator"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/timestamp"
+	"github.com/kdelwat/precise-proofs/proofs/proto"
 	"github.com/pkg/errors"
 )
 

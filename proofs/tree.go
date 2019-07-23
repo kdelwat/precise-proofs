@@ -287,8 +287,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/centrifuge/precise-proofs/proofs/proto"
 	"github.com/golang/protobuf/proto"
+	"github.com/kdelwat/precise-proofs/proofs/proto"
 	"github.com/pkg/errors"
 	"github.com/xsleonard/go-merkle"
 )

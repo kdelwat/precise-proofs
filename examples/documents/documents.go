@@ -3,7 +3,7 @@ package documentspb
 import (
 	"time"
 
-	"github.com/centrifuge/precise-proofs/proofs/proto"
+	"github.com/kdelwat/precise-proofs/proofs/proto"
 	"github.com/golang/protobuf/ptypes"
 )
 
